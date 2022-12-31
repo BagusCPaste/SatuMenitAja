@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TambahActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Menu Tambah Pengingat "
+        android:fontFamily="cursive"
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan surah"
+        android:id="@+id/edt_surah"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+
+        android:layout_marginBottom="5dp"
+        android:importantForAutofill="no"
+      />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan Status"
+        android:id="@+id/edt_status"
+        android:importantForAutofill="no"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="5dp"/>
+    <Button
+        android:id="@+id/btn_tambah_pengingat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selesai"
+        android:layout_margin="15dp"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>

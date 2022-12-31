@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/activity_detail_surah.xml" value="0.2427536231884058" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/activity_tambah.xml" value="0.264" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/fragment_al__quran.xml" value="0.2644927536231884" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/fragment_reminder.xml" value="0.2644927536231884" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/layout_item.xml" value="0.4" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/list_surah.xml" value="0.3793939393939394" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/layout/surah_layout.xml" value="0.2644927536231884" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/menu/crud_menu.xml" value="0.14010416666666667" />
+        <entry key="..\:/KULIAH/SEMESTER 3/Program Perangkat Bergerak (PBB)/SatuMenitAja/app/src/main/res/menu/search.xml" value="0.2453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

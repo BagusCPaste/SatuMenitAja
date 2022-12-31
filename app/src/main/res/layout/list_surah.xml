@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginRight="15dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginTop="9dp"
+    android:layout_marginBottom="9dp"
+    app:cardCornerRadius="7dp"
+    app:cardElevation="5dp"
+    app:cardBackgroundColor="#C839CA3C"
+    android:id="@+id/card_hasil">
+    <RelativeLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_marginLeft="25dp"
+        android:layout_marginBottom="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        >
+
+        <TextView
+            android:id="@+id/txt_surah"
+            style="@style/TextAppearance.AppCompat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/rancho"
+            android:text="list_surah"
+            android:textSize="27sp"
+
+            />
+
+        <TextView
+            android:id="@+id/txt_ayat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_surah"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/b612_italic"
+            android:text="list_ayat" />
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

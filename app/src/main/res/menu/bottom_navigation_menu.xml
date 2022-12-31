@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/al_quran"
+        android:enabled="true"
+        android:icon="@drawable/book"
+        android:title="Al - Quran"/>
+    <item
+        android:id="@+id/reminder"
+        android:enabled="true"
+        android:icon="@drawable/notifications"
+        android:title="Reminder"/>
+</menu>

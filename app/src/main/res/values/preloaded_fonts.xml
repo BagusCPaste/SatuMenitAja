@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/asap_italic</item>
+        <item>@font/b612_italic</item>
+        <item>@font/lemonada_semibold</item>
+        <item>@font/marck_script</item>
+        <item>@font/rancho</item>
+        <item>@font/ranga_bold</item>
+    </array>
+</resources>

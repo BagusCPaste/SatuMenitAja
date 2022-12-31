@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72819314536",
+    "firebase_url": "https://satumenitaja-aafbe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "satumenitaja-aafbe",
+    "storage_bucket": "satumenitaja-aafbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72819314536:android:307b69a6fd4075f48950dd",
+        "android_client_info": {
+          "package_name": "com.example.satumenitaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72819314536-3v009bdk4ke7beghvtiochrcenl9ese9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvoqSDZQvgFy5hSgwwUtVTzyQK7gQF4tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72819314536-3v009bdk4ke7beghvtiochrcenl9ese9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit_reminder"
+        android:enabled="true"
+        android:icon="@drawable/book"
+        android:title="Edit Reminder"/>
+    <item
+        android:id="@+id/delete_Reminder"
+        android:enabled="true"
+        android:icon="@drawable/notifications"
+        android:title="Hapus Reminder"/>
+</menu>
